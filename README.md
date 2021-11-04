@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @answr42Hub
+- 👀 I’m in learning languages like C++, GOlang, Ruby, rust, etc...
+- 🌱 I’m currently learning DataStructures in C++
