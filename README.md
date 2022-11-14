@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @answr42Hub
 - 👀 I’m in learning languages like C++/C#, GOlang, Python, PHP, JavaScript etc...
-- 🌱 I’m currently learning PHP and C#(OOP)
+- 🌱 I’m currently learning Kotlin, Swift, t-sql and GOlang.
